@@ -1,11 +1,13 @@
 Tornado
 =======
 Tornado is an open source version of the scalable, non-blocking web server
-and and tools that power FriendFeed. Documentation and downloads are
-available at http://www.tornadoweb.org/
+and and tools that power Facebook's Feed. 
 
 Tornado is licensed under the Apache Licence, Version 2.0
 (http://www.apache.org/licenses/LICENSE-2.0.html).
+
+This upcoming version has been largely edited by Geoff Momin of Scope Commons.
+However, it will still be released under the Apache Licence.
 
 Automatic installation
 ----------------------
@@ -25,7 +27,7 @@ Download the latest release from http://pypi.python.org/pypi/tornado
     python setup.py build
     sudo python setup.py install
 
-The Tornado source code is hosted on GitHub: https://github.com/facebook/tornado
+The Tornado source code is hosted on GitHub: https://github.com/ScopeCode/tornado
 
 On Python 2.6 and 2.7, it is also possible to simply add the tornado
 directory to your PYTHONPATH instead of building with setup.py, since
