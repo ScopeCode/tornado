@@ -6,7 +6,7 @@ and and tools that power Facebook's Feed.
 Tornado is licensed under the Apache Licence, Version 2.0
 (http://www.apache.org/licenses/LICENSE-2.0.html).
 
-This upcoming version has been largely edited by Geoff Momin of Scope Commons.
+This upcoming version has been largely edited by Geoff Momin of ScopeCommons.
 However, it will still be released under the Apache Licence.
 
 Automatic installation
